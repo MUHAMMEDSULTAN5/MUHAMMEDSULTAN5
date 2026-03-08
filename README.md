@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 <!--
-**MUHAMMEDSULTAN5/MUHAMMEDSULTAN5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 CompEng Student | Web & Mobile Dev
+- 🌐 Owner/Dev: Mustaqbalak & Lira Exchange SY (Web)
+- 📱 Dev: SmartLang (Mobile)
+- 🐞 Ex-Software Tester @ openBrim
 
 Here are some ideas to get you started:
 
