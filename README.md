@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-<!--
 - 💻 CompEng Student | Web & Mobile Dev
 - 🌐 Owner/Dev: Mustaqbalak & Lira Exchange SY (Web)
 - 📱 Dev: SmartLang (Mobile)
 - 🐞 Ex-Software Tester @ openBrim
+<!--
+
 
 Here are some ideas to get you started:
 
